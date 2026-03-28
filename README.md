@@ -39,17 +39,7 @@ Built as part of the AI Hero: AI Agents Crash Course, it demonstrates how to tra
 
 📋 Prerequisites
 
-You will need an API key from OpenRouter to run the agent.
-
-
-💻 Installation & Usage
-
-- Clone the repository:
-
-git clone <your-repo-url>
-cd fastapi-agent
-
+- You will need an API key from OpenRouter to run the agent.
+  
 - Install dependencies: pip install requests python-frontmatter numpy tqdm sentence-transformers langchain-openai langchain-core minsearch
-
-- Run the Notebook: Open the Jupyter notebook and execute the cells. The agent is initialized to answer technical questions like: "How do I implement OAuth2 with a password flow in FastAPI?"
 
