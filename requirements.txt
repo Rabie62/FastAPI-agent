@@ -1,0 +1,9 @@
+streamlit
+pydantic-ai
+minsearch
+sentence-transformers
+torch
+numpy
+requests
+python-frontmatter
+openai

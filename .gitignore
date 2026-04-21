@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit secrets (Do not push this!)
+.streamlit/secrets.toml
+
+# Generated logs & evaluations
+fastapi_logs/
+
+# Large model/agent files
+agent_package/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
